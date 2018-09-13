@@ -1,5 +1,8 @@
 _repo: Wahn-und-Ueberzeugung-Reise-des-Kupferschmiede-Meisters-Friedrich-Hohne-in-Weimar-uber-Bremen__51430
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51430-h/images/cover.jpg
 creator:
   author:
     agent_name: Höhne, F. (Friedrich)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '46409'
     url: http://www.gutenberg.org/2009/agents/46409
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51430#Wahn-und-Ueberzeugung-Reise-des-Kupferschmiede-Meisters-Friedrich-Hohne-in-Weimar-uber-Bremen_
 gutenberg_issued: '2016-03-13'
 gutenberg_type: Text
 identifiers:
