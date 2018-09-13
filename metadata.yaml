@@ -1,0 +1,28 @@
+_repo: Wahn-und-Ueberzeugung-Reise-des-Kupferschmiede-Meisters-Friedrich-Hohne-in-Weimar-uber-Bremen__51430
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Höhne, F. (Friedrich)
+    aliases:
+    - Hohne, F. (Friedrich)
+    - Höhne, Friedrich
+    gutenberg_agent_id: '46409'
+    url: http://www.gutenberg.org/2009/agents/46409
+description: ''
+gutenberg_issued: '2016-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51430'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Texas -- Description and travel'
+- !lcsh 'United States -- Description and travel'
+- !lcc 'F590.3'
+- GITenberg
+title: "Wahn und Ueberzeugung\r\nReise des Kupferschmiede-Meisters Friedrich Höhne\
+  \ in Weimar über Bremen nach Nordamerika und Texas in den Jahren 1839, 1840 und\
+  \ 1841."
+url: http://www.gutenberg.org/ebooks/51430
